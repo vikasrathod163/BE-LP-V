@@ -19,6 +19,7 @@ class Breadthfs
  public:
  
  node *insert(node *, int);
+ 
  void bfs(node *);
  
 };
